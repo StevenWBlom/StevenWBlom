@@ -35,7 +35,7 @@ I transitioned from the **Power Platform** ecosystem into the deep end of **C# a
 ### 🗺️ Learning Roadmap:
 - [x] **Phase 1:** Master Power Platform & Low-Code Logic.
 - [x] **Phase 2:** Transition to C# / .NET & Blazor WASM.
-- [>] **Phase 3:** Current: Mastering Minimal APIs & React/TS Integration.
+- [X] **Phase 3:** Mastering Minimal APIs & React/TS Integration.
 - [ ] **Phase 4:** Next: Microservices architecture and Kubernetes.
 
 ---
